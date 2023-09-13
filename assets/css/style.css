@@ -12,11 +12,12 @@
 .t-bold{
     font-weight: 600;
 }
-
+#nav-hover{
+    color: black;
+}
 #nav-hover:hover{
     color: brown;
 }
-
 
 h1{
     color: pink;
