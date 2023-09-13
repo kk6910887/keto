@@ -12,11 +12,20 @@
 .t-bold{
     font-weight: 600;
 }
+#nav-home{
+    color: red;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 28px;
+}
 #nav-hover{
     color: black;
 }
 #nav-hover:hover{
-    color: brown;
+    color: red;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 28px;
 }
 
 h1{
