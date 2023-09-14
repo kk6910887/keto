@@ -125,10 +125,14 @@
 .image .about{
     display:block;
     transition: transform 0.5s;
+    
+   
    
 }
+
  .about:hover {
     transform: scale(1.2);
+   
 }
 
 /* rooms */
@@ -304,4 +308,17 @@
     font-size:20px;
     line-height: 45px;
 
+}
+
+/* about page */
+#about{
+    width:100%;
+    height:auto;
+    background: black;
+}
+
+#about h1{
+    color:white;
+    text-align: center;
+    padding:35px 0;
 }
