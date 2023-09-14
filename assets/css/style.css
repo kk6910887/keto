@@ -173,15 +173,7 @@
 
 /* blog */
 
-#blog{
-    background-image:url ('assets/image/blog_bg.jpg');
 
-    height:800px;
-    width:100%;
-    background-repeat:no-repeat;
-    padding:50px 400px 0px 400px;
-    
-}
 
 .blogtop{
     text-align: center;
@@ -340,12 +332,14 @@
 }
 
 /* blog */
+.about-title{
+    color: white;
+}
 #blogm{
     color:red;
 }
 #blog{
-    background-image:url('assets/image/blog_bg.jpg');
-
+    background-image:url('../image/blog_bg.jpg');
     height:800px;
     width:100%;
     background-repeat:no-repeat; 
