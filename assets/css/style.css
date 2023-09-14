@@ -16,7 +16,7 @@
     color: red;
     text-decoration: underline;
     text-decoration-thickness: 4px;
-    text-underline-offset: 28px;
+    text-underline-offset: 30px;
 }
 #nav-hover{
     color: black;
@@ -25,7 +25,7 @@
     color: red;
     text-decoration: underline;
     text-decoration-thickness: 4px;
-    text-underline-offset: 28px;
+    text-underline-offset: 30px;
 }
 
 
@@ -311,6 +311,7 @@
 }
 
 /* about page */
+
 #about{
     width:100%;
     height:auto;
@@ -321,4 +322,12 @@
     color:white;
     text-align: center;
     padding:35px 0;
+}
+/* our room page */
+
+#ourroom{
+    color:red;
+}
+#nav-hover{
+    color: black;
 }
