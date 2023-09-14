@@ -317,6 +317,9 @@
     height:auto;
     background: black;
 }
+#aboutmenu{
+    color:red;
+}
 
 #about h1{
     color:white;
