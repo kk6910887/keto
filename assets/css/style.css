@@ -28,9 +28,6 @@
     text-underline-offset: 28px;
 }
 
-h1{
-    color: pink;
-}
 
 
 
@@ -172,8 +169,8 @@ h1{
 
 /* blog */
 
-#blog{
-    background: url(assets/image/blog_bg.jpg);
+#blogBackground{
+    background: url('assets/image/blogbg.jpg'); 
     height:800px;
     width:100%;
     background-repeat:no-repeat;
